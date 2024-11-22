@@ -1,7 +1,7 @@
 ## Theory and traversals
 
-1. Introduction to Graph
-2. Connected Components
+1. Introduction to Graph Done
+2. Connected Components Done
 3. Traversal Techniques
 
 ## Traversal Problems
